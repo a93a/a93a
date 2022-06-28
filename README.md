@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🙋‍♂️ I'm Ali
+- 🧑‍💻 I usually code in Java, sometimes C, rarely Python, nowadays Kotlin
+- 🔨 I love to build native Androids Apps
+- 🌱 Right now I am learning [Jetpack Compose](https://developer.android.com/jetpack/compose "Jetpack Compose")
+
 <!--
 **a93a/a93a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

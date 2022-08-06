@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🙋‍♂️ I'm Ali
-- 🧑‍💻 I usually code in Java, sometimes C, rarely Python, nowadays Kotlin
-- 🔨 I love to build native Androids Apps
-- 🌱 Right now I am learning [Jetpack Compose](https://developer.android.com/jetpack/compose "Jetpack Compose")
+- 🧑‍💻 I code in Kotlin nowadays, have coded a in Java and C earlier. And I have had experiences with Python, Assembly, Erlang, etc
+- 🔨 I love to build native Androids apps
+- 🌱 Right now I am learning [Jetpack Compose](https://developer.android.com/jetpack/compose "Jetpack Compose") and leetcoding
 
 <!--
 **a93a/a93a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

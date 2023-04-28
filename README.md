@@ -3,7 +3,8 @@
 - 🙋‍♂️ I'm Ali
 - 🧑‍💻 I code in Kotlin nowadays, have coded a in Java and C earlier. And I have had experiences with Python, Assembly, Erlang, etc
 - 🔨 I love to build native Androids apps
-- 🌱 Right now I am learning [Jetpack Compose](https://developer.android.com/jetpack/compose "Jetpack Compose") and leetcoding
+- 🌱 Right now I am learning [Jetpack Compose](https://developer.android.com/jetpack/compose "Jetpack Compose") and Competitive Programming
+- 📫 You can reach me at my [email](mailto:ali.amid.aliam@gmail.com)
 
 <!--
 **a93a/a93a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

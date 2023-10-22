@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🙋‍♂️ I'm Ali
-- 🧑‍💻 I code in Kotlin nowadays, have coded a in Java and C earlier. And I have had experiences with Python, Assembly, Erlang, etc
-- 🔨 I love to build native Androids apps
+- 🧑‍💻 I code mostly in Kotlin and Java. And I have had experiences with C, Python, Assembly, Erlang, etc...
+- 🔨 I love to build native Androids apps and solve coding problems.
 - 🌱 Right now I am learning [Jetpack Compose](https://developer.android.com/jetpack/compose "Jetpack Compose") and Competitive Programming
 - 📫 You can reach me at my [email](mailto:ali.amid.aliam@gmail.com)
 
